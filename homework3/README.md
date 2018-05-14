@@ -1,12 +1,14 @@
 
-# QIDIAN dataset
+# Introduction
+    Modern people are increasingly keen to read on mobile devices, which has led to the development of online fiction. From the analysis of the types of online novels and their time of completion, discover the interesting points of online novels.
 ***
-## Data source
-    This dataset contains first `20 completed books` from QIDIAN's book's list(all types) according to `member user's clicks`
-scraped from the website.
-    Starting page:https://www.qidian.com/rank/fin
-## Data fields
-    book's name-String. e.g. 吞噬星空
-    writer's name-String. e.g.我吃西红柿
-## Data volume
-  20rows（books）
+## Data Analysis
+### Website url:
+    https://www.qidian.com/fin
+### Data:
+    The top 500 popular completed novels.<br>
+### Analysis Dimension:
+    - Genre of the 200 online novels<br>
+    - Date of novels completed<br>
+### License:
+    cc 4.0
